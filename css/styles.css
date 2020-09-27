@@ -123,7 +123,7 @@ li {
 /*Banner*/
 
 .banner {
-    background-image: linear-gradient(rgba(11, 57, 72, 0.8), rgba(11, 57, 72, 0.3)),
+    background-image: linear-gradient(rgba(11, 57, 72, 0.6), rgba(11, 57, 72, 0.3)),
         url('../images/tech-banner.jpg');
     background-repeat: no-repeat;
     object-fit: cover;
