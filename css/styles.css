@@ -386,7 +386,7 @@ li {
 /*CTA Section*/
 
 #cta-section {
-    background-image: url("https://github.com/sidyash212/our-website/blob/master/images/cccta.png");
+    background-image: url('https://github.com/sidyash212/our-website/blob/master/images/cccta.png');
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
